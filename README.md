@@ -153,6 +153,8 @@
   Tendermint-based blockchain applications.
 - [Anchor](https://github.com/coral-xyz/anchor)
   is a framework for Solana's Sealevel runtime providing several convenient developer tools for writing smart contracts.
+- [Trident](https://github.com/Ackee-Blockchain/trident).
+  Fuzzing framework for Solana smart contracts.
 
 ## Cross-Chain
 - [AtomicDEX](https://github.com/KomodoPlatform/atomicDEX-API).
@@ -272,6 +274,8 @@
   RocksDB.
 - [ERC-4337 Bundler](https://github.com/Vid201/aa-bundler/).
   An ongoing Rust implementation of an ERC-4337 (Account Abstraction) Bundler.
+- [Solana VS Code Extension](https://github.com/Ackee-Blockchain/solana-vscode).
+  VS Code extension for Solana with built-in static analysis detectors and fuzzing coverage visualization.
 
 ## Contribute
 Contributions are most welcome.
