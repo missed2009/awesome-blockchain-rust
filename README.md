@@ -139,7 +139,6 @@
   An ongoing Rust implementation of a Zcash node.
 - [Zero-chain](https://github.com/LayerXcom/zero-chain).
   A privacy-preserving blockchain on Substrate.
-- [Solana VS Code Extension](https://marketplace.visualstudio.com/items?itemName=AckeeBlockchain.solana) - First VS Code extension for Solana with real-time security analysis (9 detectors) and Trident fuzz coverage visualization
 
 ## Blockchain Frameworks
 - [Substrate](https://github.com/paritytech/substrate).
@@ -154,7 +153,8 @@
   Tendermint-based blockchain applications.
 - [Anchor](https://github.com/coral-xyz/anchor)
   is a framework for Solana's Sealevel runtime providing several convenient developer tools for writing smart contracts.
-- [Trident](https://github.com/Ackee-Blockchain/trident) - Fuzzing framework for Solana smart contracts
+- [Trident](https://github.com/Ackee-Blockchain/trident).
+  Fuzzing framework for Solana smart contracts.
 
 ## Cross-Chain
 - [AtomicDEX](https://github.com/KomodoPlatform/atomicDEX-API).
@@ -274,6 +274,8 @@
   RocksDB.
 - [ERC-4337 Bundler](https://github.com/Vid201/aa-bundler/).
   An ongoing Rust implementation of an ERC-4337 (Account Abstraction) Bundler.
+- [Solana VS Code Extension](https://github.com/Ackee-Blockchain/solana-vscode).
+  VS Code extension for Solana with built-in static analysis detectors and fuzzing coverage visualization.
 
 ## Contribute
 Contributions are most welcome.
